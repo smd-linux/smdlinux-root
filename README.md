@@ -1,3 +1,3 @@
-# smd-arch-root
+# smdlinux-root
 
 Credit to: https://github.com/arcolinux
